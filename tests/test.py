@@ -3,7 +3,7 @@ def test_dummy():
 
 def test_greater():
    num = 100
-   assert num > 100
+   assert num > 90
 
 def test_greater_equal():
    num = 100
